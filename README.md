@@ -24,7 +24,7 @@ more information!
 
 In case something isn't working or you need assistance with MS Annika or one of
 the extensions, please open up an issue in the [MS Annika repository](https://github.com/hgb-bin-proteomics/MSAnnika/issues). You can also reach us directly
-via the email below.
+via the email addresses below.
 
 # Contact
 
