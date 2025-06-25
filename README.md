@@ -6,14 +6,6 @@ on the specific extensions will take you to their repository where you will find
 more information!
 
 - [pyXLMS](https://github.com/hgb-bin-proteomics/pyXLMS): Export MS Annika crosslink results to different file formats for different down-stream analysis tools.
-- [MS Annika Exporters](https://github.com/hgb-bin-proteomics/MSAnnika_exporters): **\[DEPRECATED - use [pyXLMS](https://github.com/hgb-bin-proteomics/pyXLMS) instead\]** Export MS Annika crosslink results to different file formats for different down-stream analysis tools. Available exporters are:
-  - Export to [xiNET](https://crosslinkviewer.org/)
-  - Export to [xiVIEW](https://xiview.org/xiNET_website/index.php)
-  - Export to [xiFDR](https://github.com/Rappsilber-Laboratory/xiFDR)
-  - Export to [pyXlinkViewer (pyMOL)](https://github.com/BobSchiffrin/PyXlinkViewer)
-  - Export to [XLMS-Tools](https://gitlab.com/topf-lab/xlms-tools)
-  - Export to [XMAS (ChimeraX)](https://github.com/ScheltemaLab/ChimeraX_bundle)
-  - Export to [PAE Viewer](http://www.subtiwiki.uni-goettingen.de/v4/paeViewerDemo)
 - [MS Annika Spectral Library Exporter](https://github.com/hgb-bin-proteomics/MSAnnika_Spectral_Library_exporter): Generate a spectral library for [Spectronaut](https://biognosys.com/software/spectronaut/) from MS Annika results.
 - [MS Annika FDR](https://github.com/hgb-bin-proteomics/MSAnnika_FDR): A script and functions to group and validate MS Annika results.
 - [MS Annika Combine Results](https://github.com/hgb-bin-proteomics/MSAnnika_Combine_Results): A script to merge and optionally validate several MS Annika search results.
