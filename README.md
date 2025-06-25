@@ -5,7 +5,8 @@ engine [MS Annika](https://github.com/hgb-bin-proteomics/MSAnnika). Clicking
 on the specific extensions will take you to their repository where you will find
 more information!
 
-- [MS Annika Exporters](https://github.com/hgb-bin-proteomics/MSAnnika_exporters): Export MS Annika crosslink results to different file formats for different down-stream analysis tools. Available exporters are:
+- [pyXLMS](https://github.com/hgb-bin-proteomics/pyXLMS): Export MS Annika crosslink results to different file formats for different down-stream analysis tools.
+- [MS Annika Exporters](https://github.com/hgb-bin-proteomics/MSAnnika_exporters): **[DEPRECATED - use [pyXLMS](Export MS Annika crosslink results to different file formats for different down-stream analysis tools.) instead]** Export MS Annika crosslink results to different file formats for different down-stream analysis tools. Available exporters are:
   - Export to [xiNET](https://crosslinkviewer.org/)
   - Export to [xiVIEW](https://xiview.org/xiNET_website/index.php)
   - Export to [xiFDR](https://github.com/Rappsilber-Laboratory/xiFDR)
