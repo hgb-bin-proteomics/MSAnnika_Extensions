@@ -6,6 +6,7 @@ on the specific extensions will take you to their repository where you will find
 more information!
 
 - [pyXLMS](https://github.com/hgb-bin-proteomics/pyXLMS): Export MS Annika crosslink results to different file formats for different down-stream analysis tools.
+- [MS Annika Exporters](https://github.com/hgb-bin-proteomics/MSAnnika_exporters): Legacy exporters for MS Annika crosslink results to different file formats for different down-stream analysis tools. Deprecated, it's recommended to use [pyXLMS](https://github.com/hgb-bin-proteomics/pyXLMS) instead.
 - [MS Annika Spectral Library Exporter](https://github.com/hgb-bin-proteomics/MSAnnika_Spectral_Library_exporter): Generate a spectral library for [Spectronaut](https://biognosys.com/software/spectronaut/) from MS Annika results.
 - [MS Annika FDR](https://github.com/hgb-bin-proteomics/MSAnnika_FDR): A script and functions to group and validate MS Annika results.
 - [MS Annika Combine Results](https://github.com/hgb-bin-proteomics/MSAnnika_Combine_Results): A script to merge and optionally validate several MS Annika search results.
